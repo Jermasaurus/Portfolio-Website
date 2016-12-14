@@ -1,2 +1,2 @@
-# Portfolio-Website
-Website design for HU3650
+# jermasaurus.github.io
+Website for testing and general tomfoolery.
